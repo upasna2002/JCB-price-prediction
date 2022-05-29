@@ -15,4 +15,4 @@ TIME PRICE PREDICTION MODEL
 In this we have coloumns or data of dates of purchase and sale.
 
 
-THe problem set is to analyse data and predict price according to its date of purchase and sale
+The problem set is to analyse data and predict price according to its date of purchase and sale.
